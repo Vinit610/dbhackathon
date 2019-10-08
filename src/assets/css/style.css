@@ -2479,7 +2479,7 @@ span.blue_dot .fa {
 	background: url(../img/img31.png) no-repeat;
 	background-size: cover;
 	background-position: center center;
-	color:#fff;
+	color:black;
 }
 #comicbok12 .comicbok12_div {
 	position: relative;
@@ -2503,13 +2503,13 @@ span.blue_dot .fa {
 	margin-top: 30px;
 }
 .comicbok12_overlay li a {
-	color: #fff;
+	color:black;
 }
 .breadcrumb {
 	background: none;
 }
 .breadcrumb > .active {
-	color: #fff;
+	color:black;
 }
 .buttonslist .listbtn {
 	padding: 7px 15px;
